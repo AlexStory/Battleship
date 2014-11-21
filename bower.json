@@ -1,0 +1,28 @@
+{
+  "name": "Battleship",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AlexStory/Battleship",
+  "authors": [
+    "Alex Story <astory11@yahoo.com>"
+  ],
+  "description": "battleship web app",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jqueryui": "~1.11.2",
+    "bourbon": "~4.0.2",
+    "neat": "~1.7.0",
+    "refills": "~0.0.2",
+    "mocha": "~2.0.1",
+    "chai": "~1.10.0"
+  }
+}
